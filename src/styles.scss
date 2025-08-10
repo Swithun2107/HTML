@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+
+.panel {
+    margin: 40px;
+    border: 2px solid black;
+}
+
+.header {
+    border-bottom: 1px solid black;
+    font-weight: bolder;
+}
+
+ol>li {
+    color: red;
+    font-weight: bolder;
+}
+ol>p {
+    font-size: larger;
+}
+b{
+    color: red;
+}
